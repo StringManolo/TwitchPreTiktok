@@ -5,7 +5,7 @@ Yes, my full name is in my [portfolio](https://stringmanolo.github.io/portfolio/
 ### Is this a special/custom app?
 No, is the official Twitch app extracted from my smartphone. (I didn't updated it to the tiktok version)
 
-### Is this repo realated to twitch or twitch developers?
+### Is this repo related to Twitch or Twitch Developers?
 No, i'm just a random software developer that like to watch educative content on Twitch and funny stuff. Just a regular user.
 
 ### Is secure to use an outdated app?
